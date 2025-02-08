@@ -1,0 +1,3 @@
+amd64 no-multilib-hardened-selinux-desktop-systemd stable
+amd64 no-multilib-hardened-selinux-gnome-systemd stable
+amd64 no-multilib-hardened-selinux-plasma-systemd stable
