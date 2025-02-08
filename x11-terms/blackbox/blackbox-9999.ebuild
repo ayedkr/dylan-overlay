@@ -14,6 +14,7 @@ IUSE=""
 
 RDEPEND="
 	=gui-libs/marble-2.0
+	gui-libs/vte
 	dev-libs/libgee
 "
 
