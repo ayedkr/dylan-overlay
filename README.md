@@ -6,4 +6,3 @@ To add the overlay, simply do
 ```
 and sync
 
-yur
