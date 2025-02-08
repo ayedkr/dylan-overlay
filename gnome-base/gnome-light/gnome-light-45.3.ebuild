@@ -19,7 +19,7 @@ KEYWORDS="amd64 ~arm ~arm64 ~ppc64 ~riscv x86"
 # any apps, but shouldn't be used by users unless they know what they are doing.
 # cantarell minimum version is ensured here as gnome-shell depends on it.
 RDEPEND="
-	>=gnome-base/gnome-core-libs-${PV}[cups?]
+	>=gnome-base/gnome-core-libs-45.2[cups?]
 
 	>=gnome-base/gnome-session-45.0
 	>=gnome-base/gnome-settings-daemon-45.0[cups?]
