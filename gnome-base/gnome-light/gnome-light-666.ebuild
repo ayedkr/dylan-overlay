@@ -34,8 +34,8 @@ RDEPEND="
 		>=media-fonts/cantarell-0.303.1
 	)
 
-	>=x11-themes/adwaita-icon-theme-${P_RELEASE}
-	>=x11-themes/gnome-backgrounds-${P_RELEASE}
+	x11-themes/adwaita-icon-theme
+	x11-themes/gnome-backgrounds
 
 	|| (
 		>=x11-terms/gnome-terminal-3.50.1
