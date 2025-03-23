@@ -31,6 +31,7 @@ BDEPEND="
 	dev-util/glib-utils
 	sys-devel/gettext
 	virtual/pkgconfig
+        dev-lang/sassc
 "
 
 src_prepare() {
