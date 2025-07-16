@@ -5,3 +5,5 @@ amd64 no-multilib-hardened-desktop-systemd stable
 amd64 no-multilib-hardened-gnome-systemd stable
 amd64 no-multilib-hardened-plasma-systemd stable
 amd64 no-multilib-desktop-systemd
+amd64 no-multilib-desktop-gnome-systemd
+amd64 no-multilib-desktop-plasma-systemd
